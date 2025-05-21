@@ -3,7 +3,7 @@ This is a Point Cloud Neural Network program based on the code provided by Shera
 
 Setting up the program:
 
-In the repository I have the files CompleteData.xlsx, CompleteData.txt, and OriginalData.xlsx. The text file is the one used by the program as the data input and needs to be correctly pathed in the main function at the bottom. The CompleteData.xlsx is an edited version of the original data set that formats the data in a way that it can be input into the program correctly. Currently the program is only reading 3D coordinates from the dataset and is not utilizing the timestamp column.
+In the repository I have the files CompleteData.xlsx, CompleteData.txt, and OriginalData.xlsx which can be found in the release titled "required data". The text file is the one used by the program as the data input and needs to be correctly pathed in the main function at the bottom. The CompleteData.xlsx is an edited version of the original data set that formats the data in a way that it can be input into the program correctly. Currently the program is only reading 3D coordinates from the dataset and is not utilizing the timestamp column.
 
 Using and Calibrating the Program:
 
